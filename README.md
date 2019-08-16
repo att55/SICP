@@ -1,8 +1,8 @@
-# Overview
+## Overview
 
 計算機プログラムの構造と解釈 (Structure and Interpretation of Computer Programs) の Tips リポジトリ。
 
-# Scheme
+## Scheme
 
 書内の説明に採用されている言語。
 Lisp の方言のひとつで、静的スコープなどが特徴。
@@ -18,7 +18,7 @@ LISP は、アロンゾ・チャーチのラムダ計算表記法に影響を受
 
 LISP の名前は、「list processor」に由来している。リストは LISP の主要なデータ構造であり、LISP ソースコードはそれ自体がリストからできている。その結果、LISP プログラムはソースコードをデータとして操作することができ、プログラマーは、マクロ・システムで新しい構文や LISP 埋め込みの新しい DSL を作成できる。
 
-# Gauche
+## Gauche
 
 https://practical-scheme.net/gauche/index-j.html
 
